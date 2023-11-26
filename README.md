@@ -24,7 +24,7 @@ zaneyong00@gmail.com
 ## Version History
 
 * 1.0
-*   This is the complete version
+  * This is the complete version
 
 ## License
 
